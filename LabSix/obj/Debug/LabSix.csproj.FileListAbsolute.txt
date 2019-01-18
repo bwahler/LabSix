@@ -1,0 +1,7 @@
+C:\Users\bmwah\source\repos\LabSix\LabSix\bin\Debug\LabSix.exe.config
+C:\Users\bmwah\source\repos\LabSix\LabSix\bin\Debug\LabSix.exe
+C:\Users\bmwah\source\repos\LabSix\LabSix\bin\Debug\LabSix.pdb
+C:\Users\bmwah\source\repos\LabSix\LabSix\obj\Debug\LabSix.csprojAssemblyReference.cache
+C:\Users\bmwah\source\repos\LabSix\LabSix\obj\Debug\LabSix.csproj.CoreCompileInputs.cache
+C:\Users\bmwah\source\repos\LabSix\LabSix\obj\Debug\LabSix.exe
+C:\Users\bmwah\source\repos\LabSix\LabSix\obj\Debug\LabSix.pdb
